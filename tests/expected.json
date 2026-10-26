@@ -1,0 +1,388 @@
+[
+ {
+  "label": "Haaland default",
+  "target": "Erling Haaland",
+  "filters": {},
+  "rows": [
+   {
+    "player": "Michael Gregoritsch",
+    "alt_score": 86.1
+   },
+   {
+    "player": "Deniz Undav",
+    "alt_score": 83.0
+   },
+   {
+    "player": "Patrik Schick",
+    "alt_score": 82.5
+   },
+   {
+    "player": "Rômulo",
+    "alt_score": 82.5
+   },
+   {
+    "player": "Odsonne Édouard",
+    "alt_score": 82.0
+   },
+   {
+    "player": "Wesley Saïd",
+    "alt_score": 80.8
+   },
+   {
+    "player": "Ferran Torres",
+    "alt_score": 80.0
+   },
+   {
+    "player": "Hugo Ekitike",
+    "alt_score": 78.1
+   },
+   {
+    "player": "Christian Kofane",
+    "alt_score": 77.9
+   },
+   {
+    "player": "Lautaro Martínez",
+    "alt_score": 77.5
+   }
+  ]
+ },
+ {
+  "label": "Pedri budget 20 age 18-26",
+  "target": "Pedri",
+  "filters": {
+   "maxValue": 20,
+   "ageMin": 18,
+   "ageMax": 26
+  },
+  "rows": [
+   {
+    "player": "Miguel Román",
+    "alt_score": 67.1
+   },
+   {
+    "player": "Chema",
+    "alt_score": 60.9
+   },
+   {
+    "player": "Tom Krauß",
+    "alt_score": 49.0
+   },
+   {
+    "player": "Mamadou Coulibaly",
+    "alt_score": 40.9
+   },
+   {
+    "player": "Luca Lipani",
+    "alt_score": 36.6
+   },
+   {
+    "player": "Rocco Reitz",
+    "alt_score": 34.9
+   },
+   {
+    "player": "Sergi Altimira",
+    "alt_score": 33.8
+   }
+  ]
+ },
+ {
+  "label": "Saka left foot",
+  "target": "Bukayo Saka",
+  "filters": {
+   "foot": "left"
+  },
+  "rows": [
+   {
+    "player": "Nicolas Pépé",
+    "alt_score": 87.7
+   },
+   {
+    "player": "Florian Thauvin",
+    "alt_score": 81.7
+   },
+   {
+    "player": "Mason Greenwood",
+    "alt_score": 69.9
+   },
+   {
+    "player": "David Brooks",
+    "alt_score": 65.8
+   },
+   {
+    "player": "Francisco Conceição",
+    "alt_score": 65.5
+   },
+   {
+    "player": "Antony",
+    "alt_score": 61.7
+   },
+   {
+    "player": "Mohamed Salah",
+    "alt_score": 56.8
+   },
+   {
+    "player": "Franco Mastantuono",
+    "alt_score": 52.6
+   },
+   {
+    "player": "Karim Adeyemi",
+    "alt_score": 48.0
+   },
+   {
+    "player": "Bryan Mbeumo",
+    "alt_score": 37.3
+   }
+  ]
+ },
+ {
+  "label": "Van Dijk Serie A/Ligue 1",
+  "target": "Virgil van Dijk",
+  "filters": {
+   "leagues": [
+    "Serie A",
+    "Ligue 1"
+   ]
+  },
+  "rows": [
+   {
+    "player": "Abdelhamid Ait Boudlal",
+    "alt_score": 83.8
+   },
+   {
+    "player": "Marc-Oliver Kempf",
+    "alt_score": 81.3
+   },
+   {
+    "player": "Luca Ranieri",
+    "alt_score": 80.1
+   },
+   {
+    "player": "Ousmane Camara",
+    "alt_score": 79.6
+   },
+   {
+    "player": "Montassar Talbi",
+    "alt_score": 79.4
+   },
+   {
+    "player": "Andrew Omobamidele",
+    "alt_score": 79.3
+   },
+   {
+    "player": "Yerry Mina",
+    "alt_score": 78.6
+   },
+   {
+    "player": "Chidozie Awaziem",
+    "alt_score": 77.3
+   },
+   {
+    "player": "Samir Chergui",
+    "alt_score": 73.0
+   },
+   {
+    "player": "Alessandro Circati",
+    "alt_score": 72.2
+   }
+  ]
+ },
+ {
+  "label": "Rice cross-role bargain",
+  "target": "Declan Rice",
+  "filters": {
+   "sameRole": false,
+   "weights": {
+    "style": 0.3,
+    "level": 0.2,
+    "value": 0.5
+   }
+  },
+  "rows": [
+   {
+    "player": "Pablo Fornals",
+    "alt_score": 87.5
+   },
+   {
+    "player": "Pascal Groß",
+    "alt_score": 82.1
+   },
+   {
+    "player": "Maxime Lopez",
+    "alt_score": 81.3
+   },
+   {
+    "player": "Azzedine Ounahi",
+    "alt_score": 77.9
+   },
+   {
+    "player": "Nicolò Fagioli",
+    "alt_score": 73.1
+   },
+   {
+    "player": "Arijon Ibrahimović",
+    "alt_score": 72.6
+   },
+   {
+    "player": "Jonas Hofmann",
+    "alt_score": 72.2
+   },
+   {
+    "player": "Christian Eriksen",
+    "alt_score": 71.4
+   },
+   {
+    "player": "Lucas Da Cunha",
+    "alt_score": 70.8
+   },
+   {
+    "player": "Xaver Schlager",
+    "alt_score": 70.2
+   }
+  ]
+ },
+ {
+  "label": "Hakimi min level 0.6",
+  "target": "Achraf Hakimi",
+  "filters": {
+   "minLevel": 0.6
+  },
+  "rows": [
+   {
+    "player": "Álvaro Núñez",
+    "alt_score": 92.9
+   },
+   {
+    "player": "Malo Gusto",
+    "alt_score": 84.7
+   },
+   {
+    "player": "Matheus Nunes",
+    "alt_score": 81.9
+   },
+   {
+    "player": "Óscar Mingueza",
+    "alt_score": 78.2
+   },
+   {
+    "player": "Diogo Dalot",
+    "alt_score": 77.8
+   },
+   {
+    "player": "Josip Stanišić",
+    "alt_score": 75.3
+   },
+   {
+    "player": "Héctor Bellerín",
+    "alt_score": 74.7
+   },
+   {
+    "player": "Kenny Lala",
+    "alt_score": 74.6
+   },
+   {
+    "player": "Sebastian Sebulonsen",
+    "alt_score": 71.8
+   },
+   {
+    "player": "Dodô",
+    "alt_score": 68.9
+   }
+  ]
+ },
+ {
+  "label": "Reece James same side",
+  "target": "Reece James",
+  "filters": {},
+  "rows": [
+   {
+    "player": "Ruben Aguilar",
+    "alt_score": 79.0
+   },
+   {
+    "player": "Andrei Ratiu",
+    "alt_score": 74.4
+   },
+   {
+    "player": "João Cancelo",
+    "alt_score": 71.3
+   },
+   {
+    "player": "Javi Rueda",
+    "alt_score": 69.4
+   },
+   {
+    "player": "Przemysław Frankowski",
+    "alt_score": 68.7
+   },
+   {
+    "player": "Jonathan Clauss",
+    "alt_score": 68.2
+   },
+   {
+    "player": "Nahuel Molina",
+    "alt_score": 68.2
+   },
+   {
+    "player": "Jordan Teze",
+    "alt_score": 66.6
+   },
+   {
+    "player": "Yan Couto",
+    "alt_score": 65.6
+   },
+   {
+    "player": "Lucas Ahijado",
+    "alt_score": 65.6
+   }
+  ]
+ },
+ {
+  "label": "Reece James both sides",
+  "target": "Reece James",
+  "filters": {
+   "sameSide": false
+  },
+  "rows": [
+   {
+    "player": "Kassoum Ouattara",
+    "alt_score": 85.5
+   },
+   {
+    "player": "David Raum",
+    "alt_score": 80.9
+   },
+   {
+    "player": "Maximilian Mittelstädt",
+    "alt_score": 79.3
+   },
+   {
+    "player": "Emerson Palmieri",
+    "alt_score": 79.2
+   },
+   {
+    "player": "Ruben Aguilar",
+    "alt_score": 79.0
+   },
+   {
+    "player": "Sergi Cardona",
+    "alt_score": 79.0
+   },
+   {
+    "player": "Alfonso Pedraza",
+    "alt_score": 78.2
+   },
+   {
+    "player": "Hannes Behrens",
+    "alt_score": 77.1
+   },
+   {
+    "player": "Neco Williams",
+    "alt_score": 75.0
+   },
+   {
+    "player": "Andrei Ratiu",
+    "alt_score": 74.4
+   }
+  ]
+ }
+]

@@ -1,0 +1,12 @@
+# Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Raw data: downloaded from third-party sites, not redistributed
+data/raw/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
